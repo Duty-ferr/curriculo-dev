@@ -1,0 +1,21 @@
+{
+  "profile":{
+    "img":"'https://via.placeholder.com/200x200'",
+    "nome": "Lucimar",
+    "sobrenome": "Ferreira",
+    "cidade": "Guanhães",
+    "estado": "MG",
+    "contato": "(33)1111-1111",
+    "email": "lucimarferreira22@outlook.com",
+    "biografia": "Olá, me chamo Lucimar, tenho 25 anos, Sou estudante de Analise e Desenvolvimento de Sistemas....",
+    "experiencia": [{
+      "id": 1,
+      "cargo": "Estudante",
+      "empresa": "empresa",
+      "periodo": "Nov 2021",
+      "atividade": "atividade de trabalho"
+
+
+    }]
+  }
+}
